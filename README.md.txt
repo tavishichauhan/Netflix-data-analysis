@@ -82,3 +82,23 @@ The following analyses were conducted:
 ---
 
 ## Project Structure
+netflix-data-analysis
+│
+├── netflix_analysis.R
+├── netflix_titles.csv
+├── README.md
+├── movies_vs_tv_distribution.png
+├── content_growth_over_years.png
+├── top_countries_netflix_content.png
+├── top_genres_netflix.png
+├── rating_distribution.png
+├── movie_duration_distribution.png
+└── content_added_trend.png
+
+---
+
+## Author
+
+**Tavishi Chauhan**  
+B.Sc. Mathematical Sciences  
+University of Delhi
